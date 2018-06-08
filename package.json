@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-littlstar",
+  "version": "1.0.0",
+  "description": "ESLint Config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlstar/eslint-config-littlstar.git"
+  },
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/littlstar/eslint-config-littlstar/issues"
+  },
+  "peerDependencies": {
+    "eslint": ">= 4",
+    "eslint-config-airbnb": "^16.1.0"
+  },
+  "homepage": "https://github.com/littlstar/eslint-config-littlstar#readme"
+}
