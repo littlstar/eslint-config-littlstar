@@ -16,8 +16,14 @@
     "url": "https://github.com/littlstar/eslint-config-littlstar/issues"
   },
   "peerDependencies": {
-    "eslint": ">= 4",
-    "eslint-config-airbnb": "^16.1.0"
+    "eslint": ">= 4"
   },
-  "homepage": "https://github.com/littlstar/eslint-config-littlstar#readme"
+  "homepage": "https://github.com/littlstar/eslint-config-littlstar#readme",
+  "dependencies": {
+    "eslint-config-airbnb": "^16.0.0",
+    "eslint-plugin-import": "^2.12.0"
+  },
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0"
+  }
 }
