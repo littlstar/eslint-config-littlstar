@@ -12,6 +12,10 @@ module.exports = {
     "multiline-comment-style": [ "warn", "starred-block" ],
     "no-inline-comments": "error",
     eqeqeq: "warn",
-    camelcase: "warn"
+    camelcase: "warn",
+    "no-param-reassign": "warn",
+    "no-use-before-define": "off",
+    "no-restricted-syntax": "off",
+    "guard-for-in": "off"
   }
 }
