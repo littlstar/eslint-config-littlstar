@@ -16,6 +16,8 @@ module.exports = {
     "no-param-reassign": "warn",
     "no-use-before-define": "off",
     "no-restricted-syntax": "off",
-    "guard-for-in": "off"
+    "guard-for-in": "off",
+    "no-underscore-dangle": "off",
+    "yoda": "off"
   }
 }
